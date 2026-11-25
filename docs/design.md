@@ -7,7 +7,7 @@
 4. Kujunda põhilehed desktopi ja mobiili jaoks ning käitumine vahepealsetel laiustel. Lisa menüü, vormi tühjad/vea/edu/laadimise olekud ja vajaduse korral nõusolek ning ostuteekond.
 5. Koosta klikitav prototüüp. Kui Paperi tegelik võime ei toeta soovitud käitumist, seo Paperi kinnitatava disainiga eraldi prototüüp ja avalikusta piirang. Enne G2 võib teha ainult disainiprototüübi, mitte saidi rakenduskoodi.
 6. Näita kasutajale Paperi viidet, konkreetseid artboard'e, ekraanipilte ja prototüübi teekonda. Salvesta kinnitatud versioon.
-7. Seo disainitokenid kinnitatud CSS-juhendi tokenitega. Disaini muutmisel kirjelda mõju ja kinnita muudetud osa.
+7. Seo disainitokenid kinnitatud CSS-juhendi tokenitega. [PB101 CSS-täppisjuhend v1.0](pb101-css.md). Disaini muutmisel kirjelda mõju ja kinnita muudetud osa.
 
 ## Disainisüsteemi üleandmine
 Igal tokenil peab olema nimi, väärtus, semantiline roll, lubatud kasutus ja kontrastipaarid. Igal komponendil anatoomia, variandid, andmeväljad, interaktsioonid ja ligipääsetavuse tingimused. Fontide ja piltide kasutusõigus peab olema teada.

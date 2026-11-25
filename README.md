@@ -2,7 +2,7 @@
 
 Eestikeelne töökorraldus uute veebide loomiseks ja olemasolevate hooldamiseks. See on uus eraldiseisev hoidla, mitte `Mati-Git-Hub/codex-site-building` asendus ega selle muudatus.
 
-Alusta [AGENTS.md](AGENTS.md) failist. Kopeeri projekti töökausta AGENTS.md ning vajalikud juhendid ja `.agents/skills/` oskused; kontrolli oma agendikeskkonnas oskuste avastamist. Hoidla ise on juhend, mitte valmis veeb ega juba kinnitatud projekt.
+Alusta [AGENTS.md](AGENTS.md) failist. Kopeeri projekti juurkausta `AGENTS.md` ja kaustad `docs/`, `checklists/`, `templates/` ning `.agents/skills/`, säilitades kaustastruktuuri. Kontrolli, et agent leiab oskused ja saab avada mõlemad kinnitatud alusdokumendid. Hoidla ise on juhend, mitte valmis veeb ega juba kinnitatud projekt.
 
 ## Lugemisjärjekord
 1. [Nõuded ja tõendite seis](docs/requirements.md).

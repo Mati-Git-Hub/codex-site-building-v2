@@ -5,8 +5,8 @@ Iga linnuke vajab projekti tõendiregistris viidet, kontrollijat ja kuupäeva.
 ## Enne arendust
 - [ ] G0: ulatus, sisukaart, funktsioonid ja ligipääsud.
 - [ ] G1: Paper MCP disain, disainisüsteem ja prototüüp; kasutaja kinnitatud versioon.
-- [ ] G2: PB101 allikaseosed kontrollitud; täppisjuhend tervikuna kasutaja kinnitatud.
-- [ ] G3: platvorm ja CMS põhjendatud, v0.4 litsentsialus kontrollitud.
+- [ ] G2: Projekti CSS-otsused ja Paperi tokenite vastavus on kirjas. [PB101 CSS-täppisjuhend v1.0](../docs/pb101-css.md).
+- [ ] G3: Platvorm ja CMS on põhjendatud. WordPressi puhul on valitud toodete kontoõigused kontrollitud. [v0.4 originaalinventuur](../docs/WordPressi-Pro-Pluginate-nimekiri-v0.4.txt).
 - [ ] Lisakulud koos limiitidega heaks kiidetud.
 - [ ] Testkeskkond, varukoopia ja taastamine määratud.
 

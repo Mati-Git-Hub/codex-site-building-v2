@@ -3,7 +3,7 @@
 ## Planeerimine ja andmed
 Määra vormi eesmärk, minimaalsed väljad, kohustuslikkus, saaja, vastutaja, õiguslik alus, säilitusaeg ja kustutamine. Eralda päringule vastamine turundusnõusolekust; turunduse valikut ei märgita ette. Väldi tundlike andmete ja manuste kogumist ilma vajaduseta.
 
-WordPressis vali Bricks vorm või põhjendatud Bit Form / JetFormBuilder kontrollitud litsentsi järgi. Astrol vali serveripoolne endpoint või eelnevalt kinnitatud tasuta teenus. Lisa päris label'id, autocomplete sobivusel, veateated, klaviatuurifookus, topeltsaatmise vältimine ja arusaadav eduolek.
+WordPressis vali Bricks vorm või põhjendatud Bit Form / JetFormBuilder [v0.4 originaalinventuuri](WordPressi-Pro-Pluginate-nimekiri-v0.4.txt) ja kontrollitud kontoõiguste järgi. Astrol vali serveripoolne endpoint või eelnevalt kinnitatud tasuta teenus. Lisa päris label'id, autocomplete sobivusel, veateated, klaviatuurifookus, topeltsaatmise vältimine ja arusaadav eduolek.
 
 ## Serveripoolne kaitse
 Valideeri väljad ja piirangud serveris, kodeeri väljund, piira päringute sagedust, kasuta sobivat robotikaitset ning päritolu/CSRF kaitset vastavalt teostusele. Manustel kontrolli tüüpi, suurust ja ligipääsu. Päisesse ei tohi pääseda kasutaja sisestatud reavahetused. Edu vastus peab tähendama tegelikult aktsepteeritud saatmist või järjekorda lisamist, mitte lihtsalt nupu vajutamist.

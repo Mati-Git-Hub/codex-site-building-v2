@@ -10,6 +10,8 @@
 
 Vali nõuete järgi, mitte tehnoloogiaeelistuse põhjal. Selgita toimetajale, kuidas ta muudab teksti, pilti, lehte ja menüüd. Etch Studio või CrocoBuilder võivad olla eraldi hinnatavad kandidaadid; nende nime olemasolu ei tähenda küpsuse, sobivuse ega litsentsi kinnitust. Bricksist loobumine vajab põhjendatud uut otsust.
 
+WordPressi tööriistade valikul lähtu kinnitatud inventuurist ja kontrolli enne aktiveerimist konkreetse konto õigusi. [v0.4 originaalinventuur](WordPressi-Pro-Pluginate-nimekiri-v0.4.txt).
+
 ## CMS-i valik
 1. Kas sisuhaldust üldse vajatakse? Arendaja hallatav staatiline sisu võib piisata, kui omanik seda kinnitab.
 2. Kirjelda redigeerijaid, rolle, mustandeid, eelvaadet, meediat, keeli, eksporti ja varukoopiaid.

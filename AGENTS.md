@@ -9,7 +9,7 @@
 
 ## Peatumiskohad
 1. Enne veebilehe visuaalset teostust loo Paper MCP kaudu disain ja näita kasutajale konkreetset versiooni. Salvesta Paperi faili/artboard'i viide, ekraanipildid, kuupäev ja selgesõnaline kinnitus.
-2. Enne saidi arendust peab olemas olema kontrollitud ja kasutaja kinnitatud PB101-põhine klasside/muutujate täppisjuhend koos allikaseostega. Rakenda [kinnitatud v1.0 juhendit](docs/pb101-css.md) ja salvesta projekti otsusteregistrisse juhendi versioon ning projektipõhised valikud.
+2. Enne saidi arendust rakenda kasutaja kinnitatud CSS-reegleid ja salvesta projekti otsusteregistrisse juhendi versioon, Paperi tokenite vastavus ja klasside halduskoht. Kinnita eraldi muudatused juhendi reeglites. [PB101 CSS-täppisjuhend v1.0](docs/pb101-css.md)
 3. Kinnita disainisüsteem, prototüüp, platvorm, CMS ja kulude tabel enne rakendamist. Muutunud kujundus vajab mõjutatud osa uut kinnitust.
 4. Uus tasuline teenus, tellimus, tasuline limiidiületus või ost vajab hinna, kestuse ja ulatusega kasutaja kinnitust. Tasuta prooviperiood ei ole tasuta pikaajaline lahendus.
 5. Avaldamine, tootmiskeskkonna migratsioon, andmete kustutamine ja õiguste laiendamine vajavad konkreetset eelnevat kasutaja luba. Tavaline arendusluba ei tähenda piiramatut tootmisluba. Järgi ka keskkonna turvanõudeid.

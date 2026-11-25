@@ -1,6 +1,6 @@
 # Astro + Cloudflare töövoog
 
-Eeltingimus: G0–G3 läbitud. Enne paigaldamist kontrolli Astro ja Cloudflare ametlikust dokumentatsioonist parajasti toetatud versioonid, adapter, runtime ja avaldamisviis. Siin ei fikseerita kontrollimata tänaseid API-sid.
+Eeltingimus: G0–G3 läbitud. Rakenda [kinnitatud PB101 CSS-täppisjuhendit v1.0](pb101-css.md). Enne paigaldamist kontrolli Astro ja Cloudflare ametlikust dokumentatsioonist parajasti toetatud versioonid, adapter, runtime ja avaldamisviis. Siin ei fikseerita kontrollimata tänaseid API-sid.
 
 1. Määra staatilised lehed ja serverit vajavad funktsioonid. Valik Pages/Workers ning adapter peab tuginema tegelikule vajadusele ja praegusele toele; ära eelda Node'i võimalusi edge-keskkonnas.
 2. Loo uus projektikaust, kinnita õige Git remote, paketihaldur ja lukufail. Salvesta runtime'i versioon ning dokumenteeri projekti install/build/preview kontrollkäsud.

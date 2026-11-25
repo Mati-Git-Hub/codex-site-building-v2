@@ -6,8 +6,8 @@ Iga värava tõend läheb templates/project-record.md põhjal projekti dokumenta
 |---|---|---|---|
 | G0 Lähteülesanne | Eesmärk, sihtrühm, keeled, lehed, sisu, funktsioonid, kontod, eelarve, hooldaja | Sisukaart, funktsiooniloend, ligipääsu- ja riskiregister | Ulatus kasutajaga kokku lepitud |
 | G1 Disain | Paper MCP fail; desktop, mobile, olekud; disainisüsteem ja kasutajateekond | Versioonitud disain ja klikitav prototüüp | Kasutaja kinnitab viidatud versiooni |
-| G2 CSS | [Kinnitatud PB101 CSS-täppisjuhend v1.0](pb101-css.md) ja projekti tokenite ning klasside valikud | Kinnitatud täppisjuhend | Juhendi versioon ning projektipõhised valikud on kirjas |
-| G3 Arhitektuur | Bricks vs Astro; CMS, vormid, majutus, litsentsid ja kulud | Otsus koos alternatiivide ja hooldusplaaniga | Valik ja kõik lisakulud heaks kiidetud |
+| G2 CSS | [Kinnitatud PB101 CSS-täppisjuhend v1.0](pb101-css.md) ja projekti tokenite ning klasside valikud | Projekti CSS-otsused ja Paperi tokenite vastavus | Kasutatud juhendi versioon ning projektipõhised valikud on kirjas |
+| G3 Arhitektuur | Bricks vs Astro, CMS, vormid, majutus ja kulud. WordPressi puhul [v0.4 originaalinventuur](WordPressi-Pro-Pluginate-nimekiri-v0.4.txt) ja kontoõigused | Otsus koos alternatiivide ja hooldusplaaniga | Valik ja kõik lisakulud heaks kiidetud |
 | G4 Teostus | Kinnitatud G1–G3; testkeskkond ja varukoopia | Töötav sait, sisu ja integratsioonid | Funktsionaalsed kontrollid koos tõenditega |
 | G5 Avaldamine | QA raport, õiguslik sisu, varukoopia, tagasipöördumine | Konkreetne avaldamisplaan | Puuduvad blokeerijad + tootmisloa kinnitus |
 | G6 Üleandmine | Avaliku saidi järelkontroll ja ligipääsud | Hoolduskalender, vastutajad, üleandmisprotokoll | Omanik saab sisu hallata ja sait taastatav |
