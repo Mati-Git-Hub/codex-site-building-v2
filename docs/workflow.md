@@ -6,7 +6,7 @@ Iga värava tõend läheb templates/project-record.md põhjal projekti dokumenta
 |---|---|---|---|
 | G0 Lähteülesanne | Eesmärk, sihtrühm, keeled, lehed, sisu, funktsioonid, kontod, eelarve, hooldaja | Sisukaart, funktsiooniloend, ligipääsu- ja riskiregister | Ulatus kasutajaga kokku lepitud |
 | G1 Disain | Paper MCP fail; desktop, mobile, olekud; disainisüsteem ja kasutajateekond | Versioonitud disain ja klikitav prototüüp | Kasutaja kinnitab viidatud versiooni |
-| G2 CSS | PB101 allikate kontroll enne arendust, otsustusreeglid, näited, tokenid | Kinnitatud täppisjuhend | Allikaseosed kontrollitud + kasutaja kinnitus |
+| G2 CSS | [Kinnitatud PB101 CSS-täppisjuhend v1.0](pb101-css.md) ja projekti tokenite ning klasside valikud | Kinnitatud täppisjuhend | Juhendi versioon ning projektipõhised valikud on kirjas |
 | G3 Arhitektuur | Bricks vs Astro; CMS, vormid, majutus, litsentsid ja kulud | Otsus koos alternatiivide ja hooldusplaaniga | Valik ja kõik lisakulud heaks kiidetud |
 | G4 Teostus | Kinnitatud G1–G3; testkeskkond ja varukoopia | Töötav sait, sisu ja integratsioonid | Funktsionaalsed kontrollid koos tõenditega |
 | G5 Avaldamine | QA raport, õiguslik sisu, varukoopia, tagasipöördumine | Konkreetne avaldamisplaan | Puuduvad blokeerijad + tootmisloa kinnitus |
@@ -15,7 +15,7 @@ Iga värava tõend läheb templates/project-record.md põhjal projekti dokumenta
 ## Muudatuste käsitlemine
 Väike sisumuudatus läbib mõjutatud kontrollid. Uus disain, CMS, makselahendus või lisakulu avab vastava värava uuesti. Kirjuta muudatuse ulatus ja mõju; ära küsi uuesti juba sama ulatusega antud luba.
 
-Kui Paper MCP puudub, täpsusta ühendus ja jäta G1 blokeerituks; brauseri visand ei asenda kohustuslikku Paper MCP tööd. Kui PB101 allikad puuduvad, jääb G2 blokeerituks. Kui litsentsi tõend puudub, ära aktiveeri selle alusel tasulist toodet. Kui õiguslik tekst puudub, ära täida seda väljamõeldud ettevõtte andmetega.
+Kui Paper MCP puudub, täpsusta ühendus ja jäta G1 blokeerituks; brauseri visand ei asenda kohustuslikku Paper MCP tööd. Kui projekti jaoks on vaja kinnitatud PB101 juhendi reegleid muuta, kinnita muudatus enne mõjutatud arendust. Kui litsentsi tõend puudub, ära aktiveeri selle alusel tasulist toodet. Kui õiguslik tekst puudub, ära täida seda väljamõeldud ettevõtte andmetega.
 
 ## Tõendiga kinnitus
 „Kinnitan [värav], versioon [ID], ulatus [lehed/olekud], maksumus [summa/periood või 0], erandid [loend].” Salvesta kasutaja tegelik vastus ja viide. Agent ei täida kinnitaja välja ise kasutaja nimel.
