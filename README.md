@@ -17,7 +17,7 @@ Alusta [AGENTS.md](AGENTS.md) failist. Kopeeri projekti töökausta AGENTS.md ni
 [Täidetavad projektikirjed](templates/project-record.md) ja [kontrollnimekirjad](checklists/gates.md) annavad otsustele auditeeritava kuju.
 
 ## Litsentsiregistri allikas
-WordPressi-Pro-Pluginate-nimekiri-v0.4.txt originaalfail pole kättesaadav. Litsentsi kasutamise eeltingimused on kirjas [litsentsijuhendis](docs/licenses-v0.4.md).
+Kasutaja kinnitatud inventuur on [WordPressi-Pro-Pluginate-nimekiri-v0.4.txt](docs/WordPressi-Pro-Pluginate-nimekiri-v0.4.txt). Litsentsi kasutamise eeltingimused on kirjas [litsentsijuhendis](docs/licenses-v0.4.md).
 
 ## Õigused
 Sisu on selle ülesande jaoks algupäraselt koostatud. Välisrepositooriumide koodi ega litsentsitekste pole kopeeritud. Avatud lähtekoodi litsentsi sellele hoidlale pole omaniku eest valitud. Kolmandate osapoolte nimed ei anna nende toodete kasutusõigust.

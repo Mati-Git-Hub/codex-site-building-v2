@@ -10,11 +10,11 @@ Koostatud 26.11.2026 kasutaja käesoleva tellimuse ja vestluse „Etch Studio v�
 | Disainisüsteem, prototüüp, platvorm | Kasutaja otsene tellimus | G1–G3 |
 | Bricks või Astro/Cloudflare | Kasutaja otsene tellimus | Eraldi teostusrajad |
 | Tasuta / olemasolev Lifetime, lisakulud loaga | Kasutaja otsene tellimus | Kuluregister, G3 |
-| v0.4 autoriteetne | Varasem kasutaja kinnitus: ülejäänu v0.3 õige; Crocoblock top Lifetime | Originaalfaili puudumine avalikustatud |
+| v0.4 autoriteetne | Varasem kasutaja kinnitus: ülejäänu v0.3 õige; Crocoblock top Lifetime | [Kinnitatud originaalfail](WordPressi-Pro-Pluginate-nimekiri-v0.4.txt) |
 | Vormid, e-post, õigus, SEO, QA, hooldus | Kasutaja otsene tellimus | G4–G6 ja erijuhendid |
 
 ## Allikate usaldamine
-Varasemas vestluses oli kättesaadav v0.2 manus ning assistendi kokkuvõte v0.3 parandustest ja v0.4 kinnitamisest. v0.3/v0.4 allalaadimislingid viitasid varasema sessiooni failidele; nende terviksisu ei olnud loetav. v0.2 ei avaldata v0.4 nime all.
+Kasutaja esitas kinnitatud [WordPressi Pro-pluginate nimekirja v0.4 originaalfaili](WordPressi-Pro-Pluginate-nimekiri-v0.4.txt). Konto praegust aktiveerimisõigust ja vabu kasutuskohti kontrollitakse enne paigaldust.
 
 Kasutaja kinnitas [PB101 CSS-täppisjuhendi v1.0](pb101-css.md). Juhend viitab Kevin Geary avalikele ametlikele materjalidele ja märgib, millised reeglid on Codexi töökorralduse jaoks kinnitatud rakendusotsused. L07 ja L08 täielikud transkriptsioonid polnud kättesaadavad.
 

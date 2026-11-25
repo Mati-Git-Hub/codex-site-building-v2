@@ -5,7 +5,7 @@
 - Loe esmalt docs/requirements.md ja docs/workflow.md. Ülesande ulatus, tegelikud ligipääsud ja kasutaja kinnitused kirjuta projekti otsusteregistrisse.
 - Ära esita oletust kontrollitud faktina ega varasema assistendi väidet tootja või konto tõendina. Staatused: kavand, kontrollitud, kasutaja kinnitatud, blokeeritud, ei kohaldu koos põhjusega.
 - Ära kopeeri kolmandate isikute koodi, õpetuste tekste ega litsentsitekste ilma kontrollitud õiguse ja nõutava omistamiseta. Avalik hoidla ei võrdu vabakasutusloaga.
-- Litsentsivaliku autoriteetne alus on WordPressi-Pro-Pluginate-nimekiri v0.4. Puuduvat originaali ei asenda oletuslik tabel.
+- Litsentsivaliku autoriteetne alus on kasutaja kinnitatud [WordPressi-Pro-Pluginate-nimekiri v0.4](docs/WordPressi-Pro-Pluginate-nimekiri-v0.4.txt). Kontrolli enne paigaldust konto aktiveerimisõigust ja vabu kasutuskohti.
 
 ## Peatumiskohad
 1. Enne veebilehe visuaalset teostust loo Paper MCP kaudu disain ja näita kasutajale konkreetset versiooni. Salvesta Paperi faili/artboard'i viide, ekraanipildid, kuupäev ja selgesõnaline kinnitus.

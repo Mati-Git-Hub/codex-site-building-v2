@@ -1,0 +1,301 @@
+WORDPRESSI PRO- / LIFETIME-LITSENTSIDE JA ERANDITE REGISTER
+Versioon: v0.4
+Koostatud: 26.11.2026
+Alus: kasutaja kinnitatud v0.3 nimekiri ning Crocoblocki paketi täpsustus
+Staatus: KASUTAJA KINNITATUD INVENTUUR — kontopõhised kasutusõigused ja tingimused vajadusel kontrollida
+
+EESMÄRK
+See on AI-agentide jaoks kasutaja olemasolevate WordPressi teemade,
+veebiehitajate, tasuliste tööriistade ning põhjendatud tasuta erandite inventuur.
+See EI OLE kohustuslike installide nimekiri ega kinnita, et toode on
+konkreetsel uuel kliendisaidil litsentsi alusel kasutatav.
+
+MÄRKIMISREEGLID
+- Omandi/litsentsi andmed põhinevad kasutaja kinnitatud v0.3 inventuuril;
+  Crocoblocki täpsem pakett kinnitati eraldi.
+- LITSENTS näitab kasutaja ostu või toote levitamismudelit; tasuta tarkvaral
+  ei ole tasulise eluaegse litsentsi mõistet.
+- SAITIDE PIIRANG ja uuenduste/tugitingimused vajavad kontopõhist kontrolli.
+- UUEL SAIDIL KASUTATAV: [KONTROLLIDA], kuni konto ja tingimused on kinnitatud.
+- Ükski siin nimetatud plugin ei kuulu automaatselt igasse veebiprojekti.
+- Ära salvesta siia litsentsivõtmeid, paroole, API võtmeid ega muid saladusi.
+- Märge [KONTROLLIDA] ei tähenda, et litsents puudub; see tähendab, et
+  kasutusõigus või täpsed tingimused on veel üle kontrollimata.
+
+============================================================
+1. TEEMAD JA VEEBIEHITAJAD
+============================================================
+
+Nimi: Bricks Builder
+Kategooria: WordPressi teema ja visuaalne veebiehitaja
+Litsents (kasutaja andmetel): Lifetime
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: põhikandidaat WordPressi projektidele; mitte kohustuslik igal saidil.
+
+Nimi: Blocksy Premium
+Kategooria: WordPressi teema ja Premium-lisafunktsioonid
+Litsents (kasutaja andmetel): Lifetime
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: alternatiiv Bricksile; teema ja veebiehitaja rolle mitte segi ajada.
+
+Nimi: Divi
+Kategooria: WordPressi teema ja visuaalne veebiehitaja
+Litsents (kasutaja andmetel): Lifetime
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: alternatiivne WordPressi ehitusplatvorm.
+
+============================================================
+2. DISAINISÜSTEEMID JA BRICKSI LISATÖÖRIISTAD
+============================================================
+
+Nimi: Core Framework
+Kategooria: CSS-disainisüsteem / CSS-i genereerimine
+Varasem litsents (kasutaja andmetel): Lifetime
+Praegune tootelevitus: tasuta ja avatud lähtekoodiga
+Saitide piirang praegusel tasuta versioonil: litsentsivõtmeta kasutatav
+Uuendused ja tugi: tasuta projekti tingimuste järgi; varasema ostu toe ulatus [KONTROLLIDA]
+Uuel saidil kasutatav: [KONTROLLIDA tehniline sobivus]
+Märkused: ei ole kohustuslik; võrrelda Bricks native/vanilla CSS-i ja
+          platvormist sõltumatu CSS-i alternatiividega.
+
+Nimi: Advanced Themer
+Kategooria: Bricks Builderi lisatööriistad
+Litsents (kasutaja andmetel): Lifetime
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: mitte vaikimisi kohustuslik; AT CSS Frameworki ei tohi automaatselt
+          aktiveerida koos teise täieliku CSS-raamistikuga.
+
+============================================================
+3. SISUTÜÜBID, KOHANDATUD VÄLJAD JA DÜNAAMILINE SISU
+============================================================
+
+Nimi: ACPT Agency Plan LTD
+Kategooria: kohandatud sisutüübid, väljad ja andmemudelid
+Litsents (kasutaja andmetel): Lifetime / Agency
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: võrrelda WordPressi enda võimaluste ja teiste olemasolevate
+          lahendustega; ACF ei ole automaatne vaikimisi valik.
+
+Nimi: Crocoblock Lifetime — kõrgeim All-Inclusive / All Products pakett
+Kategooria: dünaamiline sisu, kohandatud väljad, päringud, JetPlugins ning CrocoBuilder
+Litsents (kasutaja kinnitusel): Lifetime; varasem Freelancer-pakett asendatud
+Saitide piirang (kasutaja kinnitusel): piiramatu
+Uuendused ja tugi: eluaegsed paketi üldtingimuste järgi; konto õigused vajadusel üle kontrollida
+Uuel saidil kasutatav: [KONTROLLIDA konto aktiveerimine ja konkreetsed tooteõigused]
+Paketi tase: kõrgeim eluaegne Crocoblocki pakett (kasutaja kinnitus)
+Ülemineku lisatasu (kasutaja andmetel): 100 €
+Märkused: kasutaja vahetas lõpetatud Freelancer-paketi kõige kõrgema
+          eluaegse paketi vastu. Pakett hõlmab tootevaliku järgi JetPluginaid
+          ja CrocoBuilderit; CrocoBuilderit EI lisata selles inventuuris
+          eraldi teemaehitajate sektsiooni (kasutaja teadlik valik).
+          Iga konkreetse JetPlugina vajadus ja sobivus Bricksiga kontrollida
+          projekti kaupa; kogu komplekti automaatselt ei paigaldata.
+
+============================================================
+4. SEO JA SISULOOME
+============================================================
+
+Nimi: Slim SEO Pro
+Kategooria: SEO lisafunktsioonid: siselingid, kohandatud schema jms
+Litsents (kasutaja andmetel): Lifetime
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: tootja praeguse dokumentatsiooni järgi TÖÖTAB ka ilma Slim SEO
+          tasuta pluginata. Kui vaja ka Slim SEO Free põhifunktsioone
+          (automaatsed metaandmed, sitemap, Open Graph), kasutada mõlemat.
+          Vältida SEO-põhifunktsioonide dubleerimist teise SEO-pluginaga.
+
+Nimi: TextBuilder
+Kategooria: sisuloome / AI tööriist
+Litsents (kasutaja andmetel): Lifetime
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: valida ainult konkreetse sisutöö vajaduse järgi.
+
+============================================================
+5. E-KAUBANDUS, VORMID, AUTOMAATIKA JA KLIENDISUHTED
+============================================================
+
+Nimi: Bit Form Agency LTD
+Kategooria: kontaktivormid ja andmete kogumine
+Litsents (kasutaja andmetel): Lifetime / Agency
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: enne paigaldust võrrelda veebiehitaja sisseehitatud vormidega.
+
+Nimi: Bit Flows Plus LTD
+Kategooria: töövoogude automatiseerimine ja integratsioonid
+Litsents (kasutaja andmetel): Lifetime / Plus
+Saitide piirang (kasutaja andmetel): 5
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA vabad saidikohad]
+Märkused: PIIRATUD litsents; agent ei tohi lugeda seda piiramatuks.
+
+Nimi: Bit Assist Agency LTD
+Kategooria: kontakt- ja suhtlusvidin
+Litsents (kasutaja andmetel): Lifetime / Agency
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: mitte kohustuslik kontaktivormi või veebichati asendus.
+
+Nimi: Bit CRM Agency LTD
+Kategooria: kliendisuhted, müügivihjed, kontaktid ja müügiprotsess
+Litsents (kasutaja andmetel): Lifetime / Agency
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: CRM, mitte üldine müügikanal; hinnata andmete ja nõusolekute haldust.
+
+Nimi: Bit Connect Agency LTD
+Kategooria: kogukond / liikmesuse funktsioonid
+Litsents (kasutaja andmetel): Lifetime / Agency
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: konkreetne funktsioonivalik ja võimalikud lisateenused [KONTROLLIDA].
+
+============================================================
+6. KOOD, TURVALISUS JA VARUNDAMINE
+============================================================
+
+Nimi: Code Snippets Pro
+Kategooria: PHP-/CSS-/JS-koodilõikude haldus
+Litsents (kasutaja andmetel): Lifetime
+Saitide piirang (kasutaja andmetel): 10 veebisaiti
+AI päringute limiit (kasutaja andmetel): 100 AI prompti kuus
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA vabad saidikohad]
+Märkused: AI päringute limiit ei ole veebisaitide arvu limiit.
+
+Nimi: WP Hide
+Kategooria: WordPressi avalike tehniliste tunnuste peitmine / lisaturvakiht
+Litsents (kasutaja andmetel): Lifetime
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: ei asenda WordPressi uuendusi, õiguste haldust ega tulemüüri.
+          Täpne ostetud toote variant [KONTROLLIDA].
+
+Nimi: WPvivid
+Kategooria: varundamine ja taastamine
+Litsents (kasutaja andmetel): Lifetime
+Saitide piirang (kasutaja andmetel): piiramatu
+Uuendused ja tugi: [KONTROLLIDA litsentsitingimustest]
+Uuel saidil kasutatav: [KONTROLLIDA]
+Märkused: täpne WPvivid Premium/Pro pakett [KONTROLLIDA]; enne paigaldust
+          kontrollida majutaja enda varunduse ja taastamise võimalusi.
+
+============================================================
+7. TEADLIKULT SÄILITATUD TASUTA BAASKOMPONENDID
+============================================================
+
+Nimi: WooCommerce
+Kategooria: e-kaubanduse tuumik
+Hind/litsents: tasuta avatud lähtekoodiga tuumik
+Saitide piirang: tuumikul tasulist saidilitsentsi ei ole
+Uuendused: tasuta tuumik; lisamoodulitel võivad olla muud tingimused
+Märkused: paigaldada ainult veebipoele; maksed ja tarne eraldi otsused.
+
+Nimi: FluentSMTP
+Kategooria: WordPressi e-kirjade saatmise SMTP/API liides
+Hind/litsents: tasuta
+Saitide piirang: tasuta plugin ei nõua tasulist saidilitsentsi
+Märkused: valida vajaduse korral ÜKS SMTP-lahendus; e-posti teenusepakkuja
+          tasud ja limiidid on eraldi.
+
+Nimi: Bit SMTP
+Kategooria: WordPressi e-kirjade saatmise SMTP/API liides
+Hind/litsents: tasuta
+Saitide piirang: tasuta plugin ei nõua tasulist saidilitsentsi
+Märkused: alternatiiv FluentSMTP-le; mõlemat pole vaja ühele saidile paigaldada.
+
+Nimi: Slim SEO (tasuta)
+Kategooria: SEO põhifunktsioonid
+Hind/litsents: tasuta
+Saitide piirang: tasuta plugin ei nõua tasulist saidilitsentsi
+Märkused: nimekirjas erandina Slim SEO Pro kõrval täieliku SEO-funktsionaalsuse
+          võimaldamiseks. EI OLE Slim SEO Pro käivitumise tehniline eeltingimus.
+
+============================================================
+8. VÄLISED TEENUSED / ERALDI TINGIMUSTEGA LIIDESTUSED
+============================================================
+
+Nimi: Montonio for WooCommerce
+Kategooria: WooCommerce'i maksete ja tarne liidestus
+WordPressi plugin: tasuta
+Väline teenus: Montonio lepingu, paketi ja teenustasude alusel
+Litsents: EI OLE kasutaja eluaegne pluginalitsents
+Teenuse leping / konto / kehtivad hinnad: [KONTROLLIDA IGA PROJEKTI JAOKS]
+Märkused: säilitatud teadliku olemasoleva integratsioonina, mitte neljanda
+          tasulise/lifetime plugina ega soovitusliku vaikimisi makseteenusena.
+
+============================================================
+9. EEMALDATUD TASUTA PLUGINAD (MITTE AKTIIVNE INVENTUUR)
+============================================================
+
+- Loco Translate
+- Limit Login Attempts Reloaded
+- Advanced Google reCAPTCHA
+
+Need eemaldati kasutaja v0.2 nimekirja korrastamisel, sest inventuur ei ole
+kõigi võimalike tasuta WordPressi pluginate kataloog. Eemaldamine nimekirjast
+EI tähenda, et need oleksid konkreetsel saidil keelatud või paigaldatud
+pluginatest automaatselt kustutatud. Vajadusel kaalub AI tasuta lahendust
+projekti eraldi pluginavaliku etapis.
+
+============================================================
+10. AI-AGENDI VALIKU- JA KONTROLLIREEGLID
+============================================================
+
+1. See fail on olemasolevate litsentside ja teadlike erandite INVENTUUR,
+   mitte installimise kohustuslik nimekiri.
+2. Kontrolli kõigepealt WordPressi, teema ja veebiehitaja enda võimalusi.
+3. Kui vajadus jääb katmata, võrdle sobivaid olemasolevaid lifetime/Pro tooteid.
+4. Seejärel võrdle tasuta alternatiive, kuid ära lisa neid inventuuri ilma
+   kasutaja otsuseta.
+5. Vali võimalikult lihtne ja piisava funktsionaalsusega lahendus, hinnates
+   tegelikku jõudlust, töökindlust, turvalisust ja hoolduskoormust.
+6. Ära installi konkureerivaid lahendusi (nt FluentSMTP + Bit SMTP või kaks
+   täismahus CSS-raamistikku) ilma eraldi põhjenduse ja kinnituseta.
+7. Eralda plugina litsents teenusepakkuja kuutasust, tehingutasust,
+   API-tasust ja kasutajapõhisest hinnastamisest.
+8. Uut tasulist tellimust, ostu ega teenuselepingut ei tohi sõlmida ilma
+   kasutaja selgesõnalise kinnituseta.
+9. Esita iga valiku kohta eelised, puudused, võimalikud kattuvused,
+   alternatiivid ja kulud; kasutaja kinnitab lõpliku tarkvaraloendi.
+10. Kontrolli konto põhjal litsentsi täpne pakett, saitide arv, vabad
+    saidikohad ning toe/uuenduste tingimused enne uuele saidile paigaldust.
+11. Eelistada minimaalset vajalikku installide arvu: kui funktsiooni pole
+    vaja, ära pluginat paigalda.
+12. Eemalda projekti käigus tarbetuks osutunud komponendid ainult pärast
+    mõju hindamist ja kasutaja kinnitust; ära puutu teiste saitide pluginaid.
+
+ALLIKAD / VÄLISED KONTROLLID (26.11.2026)
+- Slim SEO Pro iseseisvus: https://docs.wpslimseo.com/slim-seo-pro/installation/
+- Core Frameworki praegune levitus: https://coreframework.com/
+- Crocoblock paketi ulatus: https://crocoblock.com/knowledge-base/articles/all-inclusive-yearly-and-lifetime-subscription-plans/
+- Montonio WooCommerce plugin: https://wordpress.org/plugins/montonio-for-woocommerce/
+- Montonio teenus ja hinnad: https://www.montonio.com/
+
+MÄRKUS
+Välisallikad kirjeldavad TOODETE üldtingimusi. Need ei tõenda kasutaja
+konkreetseid ostuõigusi ega aktiivseid kasutuskohti.
+
+VERSIOONIMÄRKUS v0.4
+- Kasutaja kinnitas kõik v0.3 ülejäänud kirjed õigeks.
+- Ainus sisuline muudatus v0.4-s on Crocoblocki paketi täpsustamine.
+- v0.3 säilib eelmise tööversioonina; käesolev fail on kasutaja kinnitatud inventuuri uus versioon.
